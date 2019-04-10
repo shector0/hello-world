@@ -1,2 +1,3 @@
 # hello-world
-A Repository for folders and files, images, videos, spreadsheets, and data sets
+I am interested in learning Computer Science and am currently studying Python programming online.
+This is my github repo that I will upload code to.
